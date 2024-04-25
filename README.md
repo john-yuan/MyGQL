@@ -1,4 +1,8 @@
-# MyGQL
+# Warning
+
+This repository is archived, please use [GraphQL Toolkit](https://github.com/john-yuan/graphql-toolkit) instead.
+
+## MyGQL
 
 A tool to convert GraphQL introspection to TypeScript code and generate GraphQL query from JavaScript object.
 
