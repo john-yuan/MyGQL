@@ -1,6 +1,6 @@
 # Warning
 
-This repository is archived, please use [GraphQL Toolkit](https://github.com/john-yuan/graphql-toolkit) instead.
+**This repository is no longer maintained. please use [GraphQL Toolkit](https://github.com/john-yuan/graphql-toolkit) instead.**
 
 ## MyGQL
 

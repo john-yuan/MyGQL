@@ -1,4 +1,9 @@
-# README
+# Warning
+
+**This module is no longer maintained. Please use [generate-graphql-query
+](https://www.npmjs.com/package/generate-graphql-query) instead.**
+
+## README
 
 [![npm version](https://img.shields.io/npm/v/@mygql/graphql.svg)](https://www.npmjs.com/package/@mygql/graphql)
 [![coverage](https://cdn.jsdelivr.net/gh/john-yuan/MyGQL@main/packages/graphql/coverage/badges.svg)](./coverage/coverage.txt)

@@ -1,4 +1,9 @@
-# README
+# Warning
+
+**This module is no longer maintained. Please use [generate-graphql-client
+](https://www.npmjs.com/package/generate-graphql-client) instead.**
+
+## README
 
 [![npm version](https://img.shields.io/npm/v/@mygql/codegen.svg)](https://www.npmjs.com/package/@mygql/codegen)
 [![install size](https://packagephobia.now.sh/badge?p=@mygql/codegen)](https://packagephobia.now.sh/result?p=@mygql/codegen)
